@@ -27,13 +27,20 @@ const Navbar = () => {
                                 <li><a className="dropdown-item" href="/">BLE Node</a></li>
                                 <li><a className="dropdown-item" href="/">4G/5G Kit</a></li>
                                 <li><a className="dropdown-item" href="/">Wifi Development Board</a></li>
-                                <li><a className="dropdown-item" href="/">Action</a></li>
-                                <li><a className="dropdown-item" href="/">Another action</a></li>
-                                <li><a className="dropdown-item" href="/">Action</a></li>
-                                <li><a className="dropdown-item" href="/">Another action</a></li>
-                                <li><a className="dropdown-item" href="/">Action</a></li>
-                                <li><a className="dropdown-item" href="/">Another action</a></li>
-                                <li><hr className="dropdown-divider" /></li>
+                                <li><a className="dropdown-item" href="/">Activity Monitor Kit</a></li>
+                                <li><a className="dropdown-item" href="/">Weather Monitoring Sensor System</a></li>
+                                <li><a className="dropdown-item" href="/">Solar Charging & Discharging Module</a></li>
+                                <li><a className="dropdown-item" href="/">Grove Shield</a></li>
+                                <li><a className="dropdown-item" href="/">Solar Panel and Battery</a></li>
+                                <li><a className="dropdown-item" href="/">SHT40 Sensor</a></li>
+                                <li><a className="dropdown-item" href="/">STTS751 Sensor</a></li>
+                                <li><a className="dropdown-item" href="/">LIS3DH Sensor</a></li>
+                                <li><a className="dropdown-item" href="/">RELAY Sensor</a></li>
+                                <li><a className="dropdown-item" href="/">LCD</a></li>
+                                <li><a className="dropdown-item" href="/">Buzzer</a></li>
+                                <li><a className="dropdown-item" href="/">Memory Unit (W25Q16)</a></li>
+                                <li><a className="dropdown-item" href="/">Lux Sensor</a></li>
+                                <li><a className="dropdown-item" href="/">UART to USB Converter</a></li>
                             </ul>
                         </li>
                         <li className="nav-item">
