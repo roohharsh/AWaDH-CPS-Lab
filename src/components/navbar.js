@@ -18,13 +18,22 @@ const Navbar = () => {
                         </li>
                         <li className="nav-item dropdown">
                             <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Dropdown
+                                Items in CPS Lab
                             </a>
                             <ul className="dropdown-menu">
+                                <li><a className="dropdown-item" href="/">BLE Gateway</a></li>
+                                <li><a className="dropdown-item" href="/">Low Power Camera Module</a></li>
+                                <li><a className="dropdown-item" href="/">BLE Development Kit</a></li>
+                                <li><a className="dropdown-item" href="/">BLE Node</a></li>
+                                <li><a className="dropdown-item" href="/">4G/5G Kit</a></li>
+                                <li><a className="dropdown-item" href="/">Wifi Development Board</a></li>
+                                <li><a className="dropdown-item" href="/">Action</a></li>
+                                <li><a className="dropdown-item" href="/">Another action</a></li>
+                                <li><a className="dropdown-item" href="/">Action</a></li>
+                                <li><a className="dropdown-item" href="/">Another action</a></li>
                                 <li><a className="dropdown-item" href="/">Action</a></li>
                                 <li><a className="dropdown-item" href="/">Another action</a></li>
                                 <li><hr className="dropdown-divider" /></li>
-                                <li><a classNameName="dropdown-item" href="/">Something else here</a></li>
                             </ul>
                         </li>
                         <li className="nav-item">
