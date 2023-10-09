@@ -18,3 +18,12 @@ img{
     width: 40px;
     margin-right: 10px;
 }
+
+.dropdown-menu a:active{
+    background-color: white;
+    color: black;
+}
+
+.dropdown-menu a:hover{
+    background-color: #eae1e13d;
+}
