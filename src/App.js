@@ -38,11 +38,11 @@ function App() {
           <Route path="/about" element={<About/>} />
           <Route path="/devices" element={<Devices/>} />
           <Route path="/gateway" element={<Gateway/>} />
-          <Route path="/developmemt" element={<Development/>} />
+          <Route path="/development" element={<Development/>} />
           <Route path="/node" element={<Node/>} />
           <Route path="/camera" element={<Camera/>} />
-          <Route path="/4g-5g" element={<Kit4g5g/>} />
-          <Route path="/wifi" element={<WifiBoard/>} />
+          <Route path="/4g-5g-kit" element={<Kit4g5g/>} />
+          <Route path="/wifi-board" element={<WifiBoard/>} />
           <Route path="/monitor" element={<Monitor/>} />
           <Route path="/weather" element={<Weather/>} />
           <Route path="/module" element={<Module/>} />
