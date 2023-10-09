@@ -35,28 +35,28 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Home/>} />
-          <Route path="/about" element={<About/>} />
-          <Route path="/devices" element={<Devices/>} />
-          <Route path="/gateway" element={<Gateway/>} />
-          <Route path="/development" element={<Development/>} />
-          <Route path="/node" element={<Node/>} />
-          <Route path="/camera" element={<Camera/>} />
-          <Route path="/4g-5g-kit" element={<Kit4g5g/>} />
-          <Route path="/wifi-board" element={<WifiBoard/>} />
-          <Route path="/monitor" element={<Monitor/>} />
-          <Route path="/weather" element={<Weather/>} />
-          <Route path="/module" element={<Module/>} />
-          <Route path="/shield" element={<Shield/>} />
-          <Route path="/battery" element={<Battery/>} />
-          <Route path="/sht40" element={<Sht40/>} />
-          <Route path="/stts751" element={<Stts751/>} />
-          <Route path="/lis3dh" element={<Lis3dh/>} />
-          <Route path="/relay" element={<Relay/>} />
-          <Route path="/lcd" element={<Lcd/>} />
-          <Route path="/buzzer" element={<Buzzer/>} />
-          <Route path="/memory" element={<Memory/>} />
-          <Route path="/lux" element={<Lux/>} />
-          <Route path="/uart" element={<Uart/>} />
+          <Route path="about" element={<About/>} />
+          <Route path="devices" element={<Devices/>} />
+          <Route path="gateway" element={<Gateway/>} />
+          <Route path="development" element={<Development/>} />
+          <Route path="node" element={<Node/>} />
+          <Route path="camera" element={<Camera/>} />
+          <Route path="4g-5g-kit" element={<Kit4g5g/>} />
+          <Route path="wifi-board" element={<WifiBoard/>} />
+          <Route path="monitor" element={<Monitor/>} />
+          <Route path="weather" element={<Weather/>} />
+          <Route path="module" element={<Module/>} />
+          <Route path="shield" element={<Shield/>} />
+          <Route path="battery" element={<Battery/>} />
+          <Route path="sht40" element={<Sht40/>} />
+          <Route path="stts751" element={<Stts751/>} />
+          <Route path="lis3dh" element={<Lis3dh/>} />
+          <Route path="relay" element={<Relay/>} />
+          <Route path="lcd" element={<Lcd/>} />
+          <Route path="buzzer" element={<Buzzer/>} />
+          <Route path="memory" element={<Memory/>} />
+          <Route path="lux" element={<Lux/>} />
+          <Route path="uart" element={<Uart/>} />
         </Routes>
     </Router>
     </>
